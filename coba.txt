@@ -1,2 +1,6 @@
 print("Say Hello World")
-anu
+Bismillah
+Alhamdulillah
+Lulus lah
+Ayo wisuda
+Lengser Himpunan
